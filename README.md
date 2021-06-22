@@ -1,6 +1,6 @@
 XERXES
 
-XerXes - Most powerful dos tool bY mR.Thg
+XerXes - Most powerful dos tool bY mR.MarMu
 
 COMPILE
 
